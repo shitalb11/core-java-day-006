@@ -11,3 +11,5 @@ public class Demo7 {
         System.out.println("sum of elements in array: "+sum);
     }
 }
+
+//sum of elements in array
