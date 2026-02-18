@@ -2,7 +2,7 @@ package org.example.ArrayBasedProgram;
 
 import java.util.Arrays;
 
-public class Demo3 {
+public class Demo3Demoss {
     public static void main(String[] args) {
         int[] array = {10,20,30,40,50};
 
@@ -14,9 +14,5 @@ public class Demo3 {
         System.out.println(array[3]); //40
         System.out.println(array[4]); //50
         System.out.println(array[5]); //ArrayIndexOutOfBoundsException
-
-
-
-
     }
 }
