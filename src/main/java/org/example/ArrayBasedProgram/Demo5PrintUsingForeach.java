@@ -1,6 +1,6 @@
 package org.example.ArrayBasedProgram;
 
-public class Demo5PrintUsingFOREACH {
+public class Demo5PrintUsingForeach {
     public static void main(String[] args) {
          int[] array = {10,20,30,40,50,60,70,80,90};
 
