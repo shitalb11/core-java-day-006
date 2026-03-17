@@ -1,6 +1,6 @@
 package org.example.ArrayBasedProgram;
 
-public class Demo2FindLengthOfArray {
+public class Demo2FindLengthOfArrayy {
   public static void main(String[] args) {
     int[] array1 = {};
     int[] array2 = new int['A'];
