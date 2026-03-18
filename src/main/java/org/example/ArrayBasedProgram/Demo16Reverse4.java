@@ -1,6 +1,6 @@
 package org.example.ArrayBasedProgram;
 
-public class Demo17Reverse4 {
+public class Demo16Reverse4 {
     public static void main(String[] args) {
         int[] array = {10, 30, 40, 50,66, 11, 23};
 

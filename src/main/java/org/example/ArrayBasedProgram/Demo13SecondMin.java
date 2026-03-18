@@ -1,5 +1,5 @@
 package org.example.ArrayBasedProgram;
 
-public class Demo14SecondMin {
+public class Demo13SecondMin {
 
 }
