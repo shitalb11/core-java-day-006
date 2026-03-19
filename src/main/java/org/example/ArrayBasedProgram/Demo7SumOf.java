@@ -1,6 +1,6 @@
 package org.example.ArrayBasedProgram;
 
-public class Demo7SumOfArrayElement {
+public class Demo7SumOf {
     public static void main(String[] args) {
         int[] array = {10,20,30,40};
         int sum = 0;
