@@ -1,6 +1,6 @@
 package org.example.ArrayBasedProgram;
 
-public class Demo11SecondMax {
+public class Demo11SecondMaximum {
     public static void main(String[] args) {
 
         int[] array={78,90,89,78,98,76,57,80,90,93,78,75};

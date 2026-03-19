@@ -1,6 +1,6 @@
 package org.example.ArrayBasedProgram;
 
-public class Demo12SecondLargest {
+public class Demo12SecondLargestt {
     public static void main(String[] args) {
         int[] array={78,90,89,78,98,76,57,80,90,93,78,75};
 

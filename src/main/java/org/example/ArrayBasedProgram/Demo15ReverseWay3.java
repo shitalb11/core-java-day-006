@@ -1,6 +1,6 @@
 package org.example.ArrayBasedProgram;
 
-public class Demo15Reverse3 {
+public class Demo15ReverseWay3 {
     public static void main(String[] args) {
         System.out.println("using new array");
         int[] array = {10, 30, 40, 50, 11, 23};
