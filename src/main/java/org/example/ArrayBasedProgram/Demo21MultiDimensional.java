@@ -20,3 +20,9 @@ public class Demo21MultiDimensional {
         System.out.println(array[5]);//ArrayIndexOutOfBoundsException
     }
 }
+
+//***Array of arrays (2D Array / Multi-dimensional array)--->
+//1. int[][] means array of arrays (2D array)
+//2. It stores multiple arrays inside one main array
+//3. Each element is itself an array (row)
+//4. int[][] is used to create a 2D array where each element is an array itself.
