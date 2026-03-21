@@ -1,6 +1,6 @@
 package org.example.ArrayBasedProgram;
 
-public class Demo21MultiDimensional {
+public class Demo21MultiDimensional1 {
     public static void main(String[] args) {
         int[][] array = {
                 {},
