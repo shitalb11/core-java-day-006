@@ -19,3 +19,8 @@ public class Demo23MultiDimensional3 {
         System.out.println(array2[0][1]);//null
     }
 }
+//output array2-->
+//array2 = {
+//        { null, null },
+//        { null, null }
+//  };
