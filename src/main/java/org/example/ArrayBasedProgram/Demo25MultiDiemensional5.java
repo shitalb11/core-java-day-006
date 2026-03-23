@@ -20,11 +20,23 @@ public class Demo25MultiDiemensional5 {
                 result[row][col]=matrix1[row][col]+matrix2[row][col];
             }
         }
+        //1 + 11 = 12
+        //2 + 12 = 14
+        //3 + 13 = 16
+
         for(int row=0;row<result.length;row++){
             for (int col=0;col<result[row].length;col++){
-                System.out.println(result[row][col]+" ");
+                System.out.print(result[row][col]+" ");
             }
             System.out.println();
+//            12 14 16
+//            18 20 22
+//            24 26 28
         }
     }
 }
+
+//You created 2 matrices
+//Added them element by element
+//Stored result in new matrix
+//Printed the final answer
