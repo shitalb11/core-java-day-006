@@ -1,6 +1,6 @@
 package org.example.ArrayBasedProgram;
 
-public class Demo26MultiDimensional6 {
+public class Demo26MultiDimensional6Transpose {
     public static void main(String[] args) {
         int[][] matrix = {
                 {1, 2, 3},
